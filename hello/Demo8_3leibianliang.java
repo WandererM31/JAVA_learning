@@ -12,7 +12,7 @@ public class Demo8_3leibianliang {
 		i++;
 	}
 	
-	public Demo8_3leibianliang()
+	public Demo8_3leibianliang() //主类构造函数
 	{
 		System.out.println("b");
 		i++;
